@@ -1,5 +1,5 @@
 BungeeCord Beta 1.7.3 Support
-==========
+===========
 The most reliable Minecraft server portal suite.
 ------------------------------------------------
 This repository is a fork of BungeeCord that is modified to support Minecraft Beta 1.7.3.
